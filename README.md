@@ -20,6 +20,7 @@
 </div>
 <h2>Machine Learning</h2>
 <div>
+    <img src='https://img.shields.io/badge/ScikitLearn-black?style=for-the-badge&logo=scikitlearn' alt='ScikitLearn'>
     <img src='https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow' alt='TensorFlow'>
 </div>
 
