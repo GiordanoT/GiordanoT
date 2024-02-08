@@ -1,4 +1,4 @@
-<div align="center">
+<div align='center'>
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm a Master's student specializing in Advanced Software Engineering with a focus on Model-Driven Engineering (MDE). I primarily work with TypeScript and React to develop dynamic   
@@ -6,8 +6,8 @@
     </i>
 </div>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giordanot&hide=css,scss,html&theme=tokyonight" alt="Top Langs">
-</p>
+<div>
+    <img src='https://img.shields.io/badge/python-black?style=for-the-badge&logo=python' alt='Python'>
+</div>
 
 
