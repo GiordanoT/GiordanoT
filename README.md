@@ -6,7 +6,7 @@
     </i>
 </div>
 <hr />
-### Main Languages
+<h2>Main Languages</h2>
 <div>
     <img src='https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript' alt='Javascript'>
     <img src='https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript' alt='Typescript'>
