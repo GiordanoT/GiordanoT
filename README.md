@@ -5,7 +5,6 @@
         web applications. I'm passionate about exploring innovative solutions to real-world problems and constantly seek to expand my knowledge in software engineering.
     </i>
 </div>
-<hr />
 <h2>Main Languages</h2>
 <div>
     <img src='https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript' alt='Javascript'>
