@@ -13,9 +13,10 @@
 </div>
 <h2>Technologies & Frameworks</h2>
 <div>
-    <img src='https://img.shields.io/badge/react-black?style=for-the-badge&logo=react' alt='React'>
     <img src='https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5' alt='HTML'>
     <img src='https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3' alt='CSS'>
+    <img src='https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs' alt='Node.js'>
+    <img src='https://img.shields.io/badge/react-black?style=for-the-badge&logo=react' alt='React'>
     <img src='https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker' alt='Docker'>
 </div>
 <h2>Machine Learning</h2>
