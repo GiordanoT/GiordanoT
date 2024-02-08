@@ -5,7 +5,5 @@
         web applications. I'm passionate about exploring innovative solutions to real-world problems and constantly seek to expand my knowledge in software engineering.
     </i>
 </p>
-### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/GiordanoT)
-[![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/GiordanoT)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/GiordanoT)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giordanot&hide=css,scss,html&theme=tokyonight)
+
