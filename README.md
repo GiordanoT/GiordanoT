@@ -5,5 +5,5 @@
         web applications. I'm passionate about exploring innovative solutions to real-world problems and constantly seek to expand my knowledge in software engineering.
     </i>
 </p>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giordanot&hide=css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giordanot&hide=css,scss,html&theme=tokyonight)
 
